@@ -35,7 +35,7 @@ git clone https://github.com/Mavengence/Autonomous-RCCar-IT-Project-TH.OHM.git
 ### Run the Notebook
 
 ```
-cd/you_cloned_repo_location jupyter notebook
+cd/your_cloned_repo_location jupyter notebook
 ```
 
 ### Deployment
