@@ -12,8 +12,8 @@ For our group IT-project at the \textit{University of Applied Science Georg Simo
 
 ## Content
 - [Projekt Homepage](https://bohniti.github.io/it-projekt/)
-- Report/Paper as [PDF](https://github.com/bohniti/it-projekt/blob/master/Paper.pdf)
-- Presentation as [PDF](https://github.com/bohniti/it-projekt/blob/master/Presentation.pdf)
+- Report/Paper as [PDF](https://github.com/Mavengence/IT-Project-Autonomous-RCCar-TH.OHM/blob/master/Paper.pdf)
+- Presentation as [PDF](https://github.com/Mavengence/IT-Project-Autonomous-RCCar-TH.OHM/blob/master/Presentation.pdf)
 - [Pilot/Model](https://github.com/bohniti/it-projekt/tree/master/driving_car_models/models) 
 - YouTube Video [first drive](https://www.youtube.com/watch?v=VwHTCMuq3xs&feature=emb_title)
 
