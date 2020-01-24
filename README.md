@@ -2,19 +2,20 @@
   <div align="center"> 
     <img style="border-bottom:none;" sizes="200px" src="https://upload.wikimedia.org/wikipedia/commons/2/25/TH-Nuernberg-Logo.jpeg">
     <h2>Computer Science IT-Project</h2>
-    <h1>DeepLearning: Autonomous Remote Control Car</h1>
+    <h1>DeepLearning: Autonomously driving Remote Control Car</h1>
   </div>
 </div>
 
 ## Abstract
-As our final project we set up a remote control car with a raspberry Pi to drive autonomously
+For our group IT-project at the \textit{University of Applied Science Georg Simon OHM}, we built an autonomously driving remote control car. To accomplish this project, we used the framework DonkeyCar. Supervised learning is the primary component, but we provide related work and projects to compare this project with the state-of-the-art Reinforcement Learning. We explain how to connect the car with the microcontrollers and cables, to do a full reverse-engineering on the project. Every single component will be introduced in an appropriate complexity for non-electrical-engineers.  The neural network is a VGG16-Network, which will be explained with all details and parts to understand the networks' architecture fully. We further provide information about how the car can be driving with the webserver. The Report gives a detailed explanation of the API and the transferred data.
 
 
 ## Content
-
-- [Donkeycar](https://github.com/Mavengence/Autonomous-RCCar-IT-Project-TH.OHM/tree/master/donkeycar) Repository
-- [Car](https://github.com/Mavengence/Autonomous-RCCar-IT-Project-TH.OHM/tree/master/mycar) Repository
 - [Projekt Homepage](https://bohniti.github.io/it-projekt/)
+- Report/Paper as [PDF](https://github.com/bohniti/it-projekt/blob/master/Paper.pdf)
+- Presentation as [PDF](https://github.com/bohniti/it-projekt/blob/master/Presentation.pdf)
+- [Pilot/Model](https://github.com/bohniti/it-projekt/tree/master/driving_car_models/models) 
+- YouTube Video [first drive](https://www.youtube.com/watch?v=VwHTCMuq3xs&feature=emb_title)
 
 ## Getting Started
 
@@ -54,3 +55,4 @@ Also if you do make some changes, feel free to make a pull request and help make
 ## Acknowledgments
 
 The authors would like to thank [Prof. Dr. Florian Gallwitz](https://www.th-nuernberg.de/person/gallwitz-florian/) for a really good supervising of our group. Without him we wouldn't be able to have accomplished our success.
+
